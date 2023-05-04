@@ -1,0 +1,23 @@
+{
+  "name": "social-barnacle",
+  "version": "1.0.0",
+  "description": " API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeades92/social-barnacle.git"
+  },
+  "author": "James Eades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeades92/social-barnacle/issues"
+  },
+  "homepage": "https://github.com/jeades92/social-barnacle#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^7.1.0"
+  }
+}
